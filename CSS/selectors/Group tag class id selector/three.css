@@ -1,0 +1,12 @@
+h1,p{
+        color: blue;
+        font-family: Arial, Helvetica, sans-serif;
+}
+.abc{
+    background-color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#xyz{
+    color: green;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
